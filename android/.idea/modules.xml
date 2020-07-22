@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstPhase.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstPhase.iml" group="FirstPhase" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="FirstPhase/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1295676085/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1295676085/react-native-community_masked-view.iml" group="FirstPhase/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-687880724/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-687880724/react-native-gesture-handler.iml" group="FirstPhase/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1022956373/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1022956373/react-native-safe-area-context.iml" group="FirstPhase/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-954226259/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-954226259/react-native-screens.iml" group="FirstPhase/react-native-screens" />
+    </modules>
+  </component>
+</project>
